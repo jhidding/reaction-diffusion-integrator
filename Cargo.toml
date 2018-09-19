@@ -1,0 +1,7 @@
+[package]
+name = "rdint"
+version = "0.1.0"
+authors = ["Johan Hidding <j.hidding@esciencecenter.nl>"]
+
+[dependencies]
+rand = "0.4"
